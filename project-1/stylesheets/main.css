@@ -1,0 +1,70 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-size: 32px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(121,149,117);
+}
+
+h2 {
+	font-size: 56px;
+}
+
+
+.hero {
+    padding: 250px 0;
+    margin: 30px;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+#bg-1{
+    background-image: url("https://images.takeshape.io/86ce9525-f5f2-4e97-81ba-54e8ce933da7/dev/44919e3c-4b69-4246-b6a1-51c4bf337f24/Cutaway%20mycelium.jpg");
+    background-size: cover;   
+}
+
+#bg-2 {
+    margin: 0px;
+    background-image: url("https://cdn.shopify.com/s/files/1/0032/4124/6769/articles/Screen_Shot_2019-06-24_at_12.11.19_PM_d0777b13-23fc-4094-9717-9c365fd55364_1200x.png?v=1578463364");
+    background-size: cover;
+   
+}
+
+p {
+font-size: 2rem;
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 1.25rem;
+	text-decoration: none;
+}
+
+#footer{
+  font-size: 0.75rem;
+}
+
+.fullvid{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+/*    background-size: cover;*/
+     top: 0;
+    left: 0;
+    z-index: -100;  
+}
+video {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+
+}

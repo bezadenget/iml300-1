@@ -11,3 +11,9 @@ A simple Google Chrome extension that reminds you to breathe. Made with p5.js
 3. Enable developer mode (if it’s not already)
 4. Click on “Load unpacked extension”
 5. Select the extension folder
+
+### Other Chrome extension concepts I am interested in creating
+* Concept 1
+* Concept 2
+* Concept 3
+* Concept 4
